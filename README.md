@@ -1,4 +1,4 @@
-# oracle-container
+# minimized-oraclexe-image
 
 This project contains a minimized `Oracle 18.4.0 XE` Docker image intended to be used for integration testing.
 
